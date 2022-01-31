@@ -1,5 +1,7 @@
 # @releaseband/semantic-release-npm-github-config
 
+semantic-release shareable config for npm and github
+
 ## Installing
 
 ```bash
