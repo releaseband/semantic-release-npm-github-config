@@ -3,7 +3,7 @@
   "version": "0.0.0-semantic-release",
   "description": "semantic-release shareable config for npm and github",
   "author": "releaseband",
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "commit": "cz"
@@ -18,8 +18,8 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
-    "@commitlint/config-conventional": "^16.0.0",
     "@commitlint/cz-commitlint": "^16.1.0",
+    "@releaseband/commitlint-config": "^0.3.2",
     "commitizen": "^4.2.4",
     "semantic-release": "^19.0.2"
   },
@@ -42,5 +42,9 @@
   "bugs": {
     "url": "https://github.com/releaseband/semantic-release-npm-github-config/issues"
   },
-  "homepage": "https://github.com/releaseband/semantic-release-npm-github-config#readme"
+  "homepage": "https://github.com/releaseband/semantic-release-npm-github-config#readme",
+  "keywords": [
+    "semantic-release",
+    "semantic-release-config"
+  ]
 }
