@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.0.0...v1.0.1) (2022-02-04)
+
+
+### Bug Fixes
+
+* edit package ([a3f5a9e](https://github.com/releaseband/semantic-release-npm-github-config/commit/a3f5a9ec043017208021f6bd03c5d7bef03757b1))
+
 # 1.0.0 (2022-01-31)
 
 
