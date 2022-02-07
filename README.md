@@ -1,6 +1,6 @@
 # @releaseband/semantic-release-npm-github-config
 
-semantic-release shareable config for npm and github
+[semantic-release](https://github.com/semantic-release/semantic-release) shareable config for npm registry and GitHub
 
 ## Installing
 
