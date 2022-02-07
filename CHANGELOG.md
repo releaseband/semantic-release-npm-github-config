@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.1.0...v1.2.0) (2022-02-07)
+
+
+### Features
+
+* remove unnecessary tools configs ([11e1623](https://github.com/releaseband/semantic-release-npm-github-config/commit/11e1623d44db6e4658d800f862f455be800454f5))
+
 # [1.1.0](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.0.1...v1.1.0) (2022-02-05)
 
 
