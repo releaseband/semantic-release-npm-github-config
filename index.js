@@ -11,6 +11,7 @@ module.exports = {
       {
         assets: ['CHANGELOG.md'],
         baseRef: 'main',
+        pullrequestTitle: `chore(release): update release<%= nextRelease.version ? \` \${nextRelease.version}\` : "" %> [skip ci]`,
       },
     ],
   ],
