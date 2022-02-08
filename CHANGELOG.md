@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.2.0...v1.2.1) (2022-02-08)
+
+
+### Bug Fixes
+
+* change pullrequestTitle ([4a3df5d](https://github.com/releaseband/semantic-release-npm-github-config/commit/4a3df5dc1207b0cae7d9769e23b8e2ae1e6e88be))
+
 # [1.2.0](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.1.0...v1.2.0) (2022-02-07)
 
 
