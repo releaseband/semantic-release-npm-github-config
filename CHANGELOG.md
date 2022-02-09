@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.2.1...v1.2.2) (2022-02-08)
+
+
+### Bug Fixes
+
+* remove pullrequestTitle from config ([407a87f](https://github.com/releaseband/semantic-release-npm-github-config/commit/407a87f3f71cacfeb375c0774ba1bbcd6952e2d3))
+
 ## [1.2.1](https://github.com/releaseband/semantic-release-npm-github-config/compare/v1.2.0...v1.2.1) (2022-02-08)
 
 
